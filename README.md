@@ -23,3 +23,7 @@ Case study from the **Introduction to Analytics & Excel** module (Data Analytics
 ## Tools
 
 Microsoft Excel — pivot tables, pivot charts, slicers, conditional formatting, YoY formulas.
+
+## Analysis workbook
+
+`CPI_Inflation_Case_Study.xlsb` — the completed Excel workbook: raw data, missing-value handling, and question-wise analysis sheets (monthly/annual trends, YoY inflation, regional comparisons).
